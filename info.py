@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 24720215
+API_HASH     = "c0d3395590fecba19985f95d6300785e"
+BOT_TOKEN    = "6097887123:AAEhs82wUGvHiJ5BgWGhV5oM3EWRqYiy0WI"
+SESSION      = "BQF5M1cAveIcvJqvcftLX1pYM1wuygLd8wkXH2V4q6esQYkhFgbFCJT7HgYXAmuaWWRQKjSu6HAguNCP7IOCyZCt42NwrXT3HyXTnGcLjMIgQxlHSIk5QkSrOpe71StqaI7sTT07RWEjUGxrPb0jUmjtOs6yQwSgUjybssGx1oFSfPQ5__AkTgfLORyJp4qM6kQPKPc5anHlErkbC_ntZlNeWgNCmGkwdS2qtRIfeaRIrVH3Y80BM1YgSeQGdZaGZa8BRf16vPhSBONx4KoQMKwUX2S7k2RpC1s-WXhBe-QCNB1gsUOIhQuMfGbIYKt52beM2XFDzR0qugFDcFvN8Kv3Jbi5BgAAAAF3PrMGAA"
+DATABASE_URI = "mongodb+srv://Nischaybot:Nischaybot@cluster0.thf9kzz.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1001927916609
+ADMIN        = 6295565062
+CHANNEL      = "@ExtraBotsUpdate"
